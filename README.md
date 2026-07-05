@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/yashtyagee/Leet_Practise/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/yashtyagee/Leet_Practise/tree/master/0204-count-primes) |
 | [1512-number-of-good-pairs](https://github.com/yashtyagee/Leet_Practise/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashtyagee/Leet_Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/yashtyagee/Leet_Practise/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/yashtyagee/Leet_Practise/tree/master/0050-powx-n) |
 ## Bit Manipulation
 |  |
 | ------- |
