@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashtyagee/Leet_Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/yashtyagee/Leet_Practise/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0047-permutations-ii) |
+| [0118-pascals-triangle](https://github.com/yashtyagee/Leet_Practise/tree/master/0118-pascals-triangle) |
 | [0204-count-primes](https://github.com/yashtyagee/Leet_Practise/tree/master/0204-count-primes) |
 | [1470-shuffle-the-array](https://github.com/yashtyagee/Leet_Practise/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/yashtyagee/Leet_Practise/tree/master/1512-number-of-good-pairs) |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0047-permutations-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/yashtyagee/Leet_Practise/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
