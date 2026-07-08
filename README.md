@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/yashtyagee/Leet_Practise/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0047-permutations-ii) |
 | [0118-pascals-triangle](https://github.com/yashtyagee/Leet_Practise/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0119-pascals-triangle-ii) |
 | [0204-count-primes](https://github.com/yashtyagee/Leet_Practise/tree/master/0204-count-primes) |
 | [1470-shuffle-the-array](https://github.com/yashtyagee/Leet_Practise/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/yashtyagee/Leet_Practise/tree/master/1512-number-of-good-pairs) |
@@ -81,4 +82,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/yashtyagee/Leet_Practise/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
