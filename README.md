@@ -39,12 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/yashtyagee/Leet_Practise/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/yashtyagee/Leet_Practise/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashtyagee/Leet_Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yashtyagee/Leet_Practise/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/yashtyagee/Leet_Practise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0454-4sum-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0454-4sum-ii) |
 | [1512-number-of-good-pairs](https://github.com/yashtyagee/Leet_Practise/tree/master/1512-number-of-good-pairs) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yashtyagee/Leet_Practise/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yashtyagee/Leet_Practise/tree/master/0209-minimum-size-subarray-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yashtyagee/Leet_Practise/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
