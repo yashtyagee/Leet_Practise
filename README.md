@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yashtyagee/Leet_Practise/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yashtyagee/Leet_Practise/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashtyagee/Leet_Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/yashtyagee/Leet_Practise/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/yashtyagee/Leet_Practise/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/yashtyagee/Leet_Practise/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yashtyagee/Leet_Practise/tree/master/0160-intersection-of-two-linked-lists) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yashtyagee/Leet_Practise/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yashtyagee/Leet_Practise/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashtyagee/Leet_Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/yashtyagee/Leet_Practise/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/yashtyagee/Leet_Practise/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/yashtyagee/Leet_Practise/tree/master/0053-maximum-subarray) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yashtyagee/Leet_Practise/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yashtyagee/Leet_Practise/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/yashtyagee/Leet_Practise/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/yashtyagee/Leet_Practise/tree/master/0118-pascals-triangle) |
@@ -148,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yashtyagee/Leet_Practise/tree/master/0209-minimum-size-subarray-sum) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/yashtyagee/Leet_Practise/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/yashtyagee/Leet_Practise/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
