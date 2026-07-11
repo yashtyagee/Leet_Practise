@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/yashtyagee/Leet_Practise/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashtyagee/Leet_Practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/yashtyagee/Leet_Practise/tree/master/0287-find-the-duplicate-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/yashtyagee/Leet_Practise/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0454-4sum-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0454-4sum-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/yashtyagee/Leet_Practise/tree/master/0643-maximum-average-subarray-i) |
 | [1470-shuffle-the-array](https://github.com/yashtyagee/Leet_Practise/tree/master/1470-shuffle-the-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/yashtyagee/Leet_Practise/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/yashtyagee/Leet_Practise/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/yashtyagee/Leet_Practise/tree/master/0191-number-of-1-bits) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/yashtyagee/Leet_Practise/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Backtracking
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/yashtyagee/Leet_Practise/tree/master/0096-unique-binary-search-trees) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashtyagee/Leet_Practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/yashtyagee/Leet_Practise/tree/master/0287-find-the-duplicate-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/yashtyagee/Leet_Practise/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Binary Tree
 |  |
 | ------- |
@@ -161,4 +164,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yashtyagee/Leet_Practise/tree/master/0042-trapping-rain-water) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/yashtyagee/Leet_Practise/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/yashtyagee/Leet_Practise/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/yashtyagee/Leet_Practise/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/yashtyagee/Leet_Practise/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
