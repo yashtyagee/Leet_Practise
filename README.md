@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/yashtyagee/Leet_Practise/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashtyagee/Leet_Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/yashtyagee/Leet_Practise/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/yashtyagee/Leet_Practise/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashtyagee/Leet_Practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/yashtyagee/Leet_Practise/tree/master/0287-find-the-duplicate-number) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/yashtyagee/Leet_Practise/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashtyagee/Leet_Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/yashtyagee/Leet_Practise/tree/master/0152-maximum-product-subarray) |
 ## Tree
 |  |
 | ------- |
