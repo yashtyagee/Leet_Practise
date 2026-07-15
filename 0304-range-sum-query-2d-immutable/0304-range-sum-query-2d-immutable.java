@@ -17,10 +17,10 @@ class NumMatrix {
     }
     
     public int sumRegion(int row1, int col1, int row2, int col2) {
-        return prefix[row2+1][col2+1] 
-             - prefix[row1][col2+1] 
-             - prefix[row2+1][col1] 
-             + prefix[row1][col1];
+        return prefix[row2+1][col2+1]// puri matrix
+             - prefix[row1][col2+1] // top colooumn hain yeh
+             - prefix[row2+1][col1] // left row hain yeh
+             + prefix[row1][col1];// yeh top left element hain hain jo 2 baar delete hua hain 
         
     }
 }
