@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yashtyagee/Leet_Practise/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/yashtyagee/Leet_Practise/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yashtyagee/Leet_Practise/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
@@ -230,11 +231,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/yashtyagee/Leet_Practise/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yashtyagee/Leet_Practise/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/yashtyagee/Leet_Practise/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/yashtyagee/Leet_Practise/tree/master/0304-range-sum-query-2d-immutable) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/yashtyagee/Leet_Practise/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yashtyagee/Leet_Practise/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
