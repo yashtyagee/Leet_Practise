@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/yashtyagee/Leet_Practise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/yashtyagee/Leet_Practise/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/yashtyagee/Leet_Practise/tree/master/0443-string-compression) |
+| [0633-sum-of-square-numbers](https://github.com/yashtyagee/Leet_Practise/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/yashtyagee/Leet_Practise/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/yashtyagee/Leet_Practise/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/yashtyagee/Leet_Practise/tree/master/0231-power-of-two) |
+| [0633-sum-of-square-numbers](https://github.com/yashtyagee/Leet_Practise/tree/master/0633-sum-of-square-numbers) |
 | [1512-number-of-good-pairs](https://github.com/yashtyagee/Leet_Practise/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashtyagee/Leet_Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashtyagee/Leet_Practise/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/yashtyagee/Leet_Practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/yashtyagee/Leet_Practise/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yashtyagee/Leet_Practise/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0633-sum-of-square-numbers](https://github.com/yashtyagee/Leet_Practise/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/yashtyagee/Leet_Practise/tree/master/0713-subarray-product-less-than-k) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/yashtyagee/Leet_Practise/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Binary Tree
