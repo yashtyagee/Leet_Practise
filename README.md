@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/yashtyagee/Leet_Practise/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashtyagee/Leet_Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/yashtyagee/Leet_Practise/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2073-time-needed-to-buy-tickets](https://github.com/yashtyagee/Leet_Practise/tree/master/2073-time-needed-to-buy-tickets) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/yashtyagee/Leet_Practise/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yashtyagee/Leet_Practise/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/yashtyagee/Leet_Practise/tree/master/0054-spiral-matrix) |
+| [2073-time-needed-to-buy-tickets](https://github.com/yashtyagee/Leet_Practise/tree/master/2073-time-needed-to-buy-tickets) |
 ## Design
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/yashtyagee/Leet_Practise/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yashtyagee/Leet_Practise/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/yashtyagee/Leet_Practise/tree/master/0933-number-of-recent-calls) |
+| [2073-time-needed-to-buy-tickets](https://github.com/yashtyagee/Leet_Practise/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
 | ------- |
