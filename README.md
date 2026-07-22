@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yashtyagee/Leet_Practise/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/yashtyagee/Leet_Practise/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yashtyagee/Leet_Practise/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yashtyagee/Leet_Practise/tree/master/0018-4sum) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yashtyagee/Leet_Practise/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yashtyagee/Leet_Practise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashtyagee/Leet_Practise/tree/master/0387-first-unique-character-in-a-string) |
 | [0454-4sum-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0454-4sum-ii) |
