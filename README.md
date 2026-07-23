@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/yashtyagee/Leet_Practise/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/yashtyagee/Leet_Practise/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/yashtyagee/Leet_Practise/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/yashtyagee/Leet_Practise/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/yashtyagee/Leet_Practise/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/yashtyagee/Leet_Practise/tree/master/0231-power-of-two) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/yashtyagee/Leet_Practise/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yashtyagee/Leet_Practise/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/yashtyagee/Leet_Practise/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/yashtyagee/Leet_Practise/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/yashtyagee/Leet_Practise/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0119-pascals-triangle-ii) |
@@ -285,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/yashtyagee/Leet_Practise/tree/master/0175-combine-two-tables) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/yashtyagee/Leet_Practise/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
