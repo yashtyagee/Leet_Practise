@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/yashtyagee/Leet_Practise/tree/master/1331-rank-transform-of-an-array) |
 | [1470-shuffle-the-array](https://github.com/yashtyagee/Leet_Practise/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/yashtyagee/Leet_Practise/tree/master/1512-number-of-good-pairs) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/yashtyagee/Leet_Practise/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashtyagee/Leet_Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/yashtyagee/Leet_Practise/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2073-time-needed-to-buy-tickets](https://github.com/yashtyagee/Leet_Practise/tree/master/2073-time-needed-to-buy-tickets) |
