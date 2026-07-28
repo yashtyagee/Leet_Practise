@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/yashtyagee/Leet_Practise/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/yashtyagee/Leet_Practise/tree/master/0443-string-compression) |
 | [0686-repeated-string-match](https://github.com/yashtyagee/Leet_Practise/tree/master/0686-repeated-string-match) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/yashtyagee/Leet_Practise/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Array
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/yashtyagee/Leet_Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/yashtyagee/Leet_Practise/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashtyagee/Leet_Practise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/yashtyagee/Leet_Practise/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/yashtyagee/Leet_Practise/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
@@ -330,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashtyagee/Leet_Practise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/yashtyagee/Leet_Practise/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
