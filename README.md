@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/yashtyagee/Leet_Practise/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/yashtyagee/Leet_Practise/tree/master/0443-string-compression) |
 | [0686-repeated-string-match](https://github.com/yashtyagee/Leet_Practise/tree/master/0686-repeated-string-match) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yashtyagee/Leet_Practise/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Array
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/yashtyagee/Leet_Practise/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/yashtyagee/Leet_Practise/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yashtyagee/Leet_Practise/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/yashtyagee/Leet_Practise/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/yashtyagee/Leet_Practise/tree/master/1512-number-of-good-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Enumeration
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/yashtyagee/Leet_Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/yashtyagee/Leet_Practise/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashtyagee/Leet_Practise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yashtyagee/Leet_Practise/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/yashtyagee/Leet_Practise/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yashtyagee/Leet_Practise/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
 | ------- |
