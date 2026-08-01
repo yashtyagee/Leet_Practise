@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/yashtyagee/Leet_Practise/tree/master/0304-range-sum-query-2d-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yashtyagee/Leet_Practise/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0454-4sum-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0454-4sum-ii) |
+| [0486-predict-the-winner](https://github.com/yashtyagee/Leet_Practise/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/yashtyagee/Leet_Practise/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/yashtyagee/Leet_Practise/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashtyagee/Leet_Practise/tree/master/0628-maximum-product-of-three-numbers) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/yashtyagee/Leet_Practise/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/yashtyagee/Leet_Practise/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/yashtyagee/Leet_Practise/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/yashtyagee/Leet_Practise/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashtyagee/Leet_Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/yashtyagee/Leet_Practise/tree/master/0633-sum-of-square-numbers) |
 | [1512-number-of-good-pairs](https://github.com/yashtyagee/Leet_Practise/tree/master/1512-number-of-good-pairs) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/yashtyagee/Leet_Practise/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/yashtyagee/Leet_Practise/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/yashtyagee/Leet_Practise/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/yashtyagee/Leet_Practise/tree/master/0486-predict-the-winner) |
 | [2487-remove-nodes-from-linked-list](https://github.com/yashtyagee/Leet_Practise/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bit Manipulation
 |  |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/yashtyagee/Leet_Practise/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/yashtyagee/Leet_Practise/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/yashtyagee/Leet_Practise/tree/master/0198-house-robber) |
+| [0486-predict-the-winner](https://github.com/yashtyagee/Leet_Practise/tree/master/0486-predict-the-winner) |
 ## Tree
 |  |
 | ------- |
@@ -353,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yashtyagee/Leet_Practise/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/yashtyagee/Leet_Practise/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
