@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/yashtyagee/Leet_Practise/tree/master/0713-subarray-product-less-than-k) |
 | [0817-linked-list-components](https://github.com/yashtyagee/Leet_Practise/tree/master/0817-linked-list-components) |
 | [0877-stone-game](https://github.com/yashtyagee/Leet_Practise/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/yashtyagee/Leet_Practise/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/yashtyagee/Leet_Practise/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashtyagee/Leet_Practise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/yashtyagee/Leet_Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/yashtyagee/Leet_Practise/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/yashtyagee/Leet_Practise/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yashtyagee/Leet_Practise/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/yashtyagee/Leet_Practise/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashtyagee/Leet_Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/yashtyagee/Leet_Practise/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/yashtyagee/Leet_Practise/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/yashtyagee/Leet_Practise/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yashtyagee/Leet_Practise/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yashtyagee/Leet_Practise/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Tree
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/yashtyagee/Leet_Practise/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/yashtyagee/Leet_Practise/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/yashtyagee/Leet_Practise/tree/master/0713-subarray-product-less-than-k) |
+| [1140-stone-game-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/1140-stone-game-ii) |
 ## Stack
 |  |
 | ------- |
@@ -392,14 +396,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/yashtyagee/Leet_Practise/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/yashtyagee/Leet_Practise/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yashtyagee/Leet_Practise/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yashtyagee/Leet_Practise/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yashtyagee/Leet_Practise/tree/master/1406-stone-game-iii) |
 ## Bracket Sequences
 |  |
