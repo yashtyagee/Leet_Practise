@@ -1,7 +1,6 @@
 class Solution {
     private int[][] memo;
     private int[] suffixSum;
-
     public int stoneGameII(int[] piles){
         int n=piles.length;
         memo=new int[n][n+1];
@@ -13,10 +12,8 @@ class Solution {
         for(int i=n-2;i>=0;i--){
             suffixSum[i]=suffixSum[i+1]+piles[i];
         }
-
         return solve(0,1,piles);
     }
-
     private int solve(int i,int m,int[] piles){
         int n=piles.length;
         if(i+2*m>=n){
@@ -30,7 +27,6 @@ class Solution {
             int opponentStones=solve(i+x,Math.max(m,x),piles);
             maxStones=Math.max(maxStones,suffixSum[i]-opponentStones);
         }
-
         return memo[i][m]=maxStones;
     }
 }
