@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashtyagee/Leet_Practise/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/yashtyagee/Leet_Practise/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yashtyagee/Leet_Practise/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yashtyagee/Leet_Practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashtyagee/Leet_Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yashtyagee/Leet_Practise/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/yashtyagee/Leet_Practise/tree/master/3731-find-missing-elements) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/yashtyagee/Leet_Practise/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/yashtyagee/Leet_Practise/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yashtyagee/Leet_Practise/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yashtyagee/Leet_Practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashtyagee/Leet_Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/yashtyagee/Leet_Practise/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/yashtyagee/Leet_Practise/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yashtyagee/Leet_Practise/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yashtyagee/Leet_Practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
