@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/yashtyagee/Leet_Practise/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/yashtyagee/Leet_Practise/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/yashtyagee/Leet_Practise/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/yashtyagee/Leet_Practise/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashtyagee/Leet_Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/yashtyagee/Leet_Practise/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yashtyagee/Leet_Practise/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/yashtyagee/Leet_Practise/tree/master/0062-unique-paths) |
+| [0085-maximal-rectangle](https://github.com/yashtyagee/Leet_Practise/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/yashtyagee/Leet_Practise/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/yashtyagee/Leet_Practise/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0119-pascals-triangle-ii) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashtyagee/Leet_Practise/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yashtyagee/Leet_Practise/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/yashtyagee/Leet_Practise/tree/master/0085-maximal-rectangle) |
 | [0225-implement-stack-using-queues](https://github.com/yashtyagee/Leet_Practise/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yashtyagee/Leet_Practise/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/yashtyagee/Leet_Practise/tree/master/0496-next-greater-element-i) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yashtyagee/Leet_Practise/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/yashtyagee/Leet_Practise/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/yashtyagee/Leet_Practise/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/yashtyagee/Leet_Practise/tree/master/2487-remove-nodes-from-linked-list) |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/yashtyagee/Leet_Practise/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/yashtyagee/Leet_Practise/tree/master/0085-maximal-rectangle) |
 | [0304-range-sum-query-2d-immutable](https://github.com/yashtyagee/Leet_Practise/tree/master/0304-range-sum-query-2d-immutable) |
 ## Simulation
 |  |
