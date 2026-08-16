@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yashtyagee/Leet_Practise/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashtyagee/Leet_Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/yashtyagee/Leet_Practise/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2029-stone-game-ix](https://github.com/yashtyagee/Leet_Practise/tree/master/2029-stone-game-ix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/yashtyagee/Leet_Practise/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashtyagee/Leet_Practise/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yashtyagee/Leet_Practise/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/yashtyagee/Leet_Practise/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/yashtyagee/Leet_Practise/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashtyagee/Leet_Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/yashtyagee/Leet_Practise/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yashtyagee/Leet_Practise/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yashtyagee/Leet_Practise/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/yashtyagee/Leet_Practise/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/yashtyagee/Leet_Practise/tree/master/1512-number-of-good-pairs) |
+| [2029-stone-game-ix](https://github.com/yashtyagee/Leet_Practise/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Enumeration
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yashtyagee/Leet_Practise/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2029-stone-game-ix](https://github.com/yashtyagee/Leet_Practise/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yashtyagee/Leet_Practise/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -430,18 +434,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yashtyagee/Leet_Practise/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/yashtyagee/Leet_Practise/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/yashtyagee/Leet_Practise/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yashtyagee/Leet_Practise/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/yashtyagee/Leet_Practise/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/yashtyagee/Leet_Practise/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yashtyagee/Leet_Practise/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/yashtyagee/Leet_Practise/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/yashtyagee/Leet_Practise/tree/master/2029-stone-game-ix) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -458,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/yashtyagee/Leet_Practise/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/yashtyagee/Leet_Practise/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
