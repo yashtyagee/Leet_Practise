@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashtyagee/Leet_Practise/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/yashtyagee/Leet_Practise/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/yashtyagee/Leet_Practise/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashtyagee/Leet_Practise/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/yashtyagee/Leet_Practise/tree/master/0443-string-compression) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/yashtyagee/Leet_Practise/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/yashtyagee/Leet_Practise/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/yashtyagee/Leet_Practise/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/yashtyagee/Leet_Practise/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/yashtyagee/Leet_Practise/tree/master/0055-jump-game) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashtyagee/Leet_Practise/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/yashtyagee/Leet_Practise/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/yashtyagee/Leet_Practise/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yashtyagee/Leet_Practise/tree/master/0160-intersection-of-two-linked-lists) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yashtyagee/Leet_Practise/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yashtyagee/Leet_Practise/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/yashtyagee/Leet_Practise/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/yashtyagee/Leet_Practise/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/yashtyagee/Leet_Practise/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/yashtyagee/Leet_Practise/tree/master/0217-contains-duplicate) |
