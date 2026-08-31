@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/yashtyagee/Leet_Practise/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/yashtyagee/Leet_Practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0817-linked-list-components](https://github.com/yashtyagee/Leet_Practise/tree/master/0817-linked-list-components) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/yashtyagee/Leet_Practise/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2487-remove-nodes-from-linked-list](https://github.com/yashtyagee/Leet_Practise/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
