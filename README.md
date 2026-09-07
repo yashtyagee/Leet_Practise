@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/yashtyagee/Leet_Practise/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/yashtyagee/Leet_Practise/tree/master/0443-string-compression) |
 | [0686-repeated-string-match](https://github.com/yashtyagee/Leet_Practise/tree/master/0686-repeated-string-match) |
+| [0940-distinct-subsequences-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0940-distinct-subsequences-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yashtyagee/Leet_Practise/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yashtyagee/Leet_Practise/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/yashtyagee/Leet_Practise/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/yashtyagee/Leet_Practise/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/yashtyagee/Leet_Practise/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yashtyagee/Leet_Practise/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/yashtyagee/Leet_Practise/tree/master/1510-stone-game-iv) |
