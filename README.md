@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/yashtyagee/Leet_Practise/tree/master/0443-string-compression) |
 | [0686-repeated-string-match](https://github.com/yashtyagee/Leet_Practise/tree/master/0686-repeated-string-match) |
 | [0940-distinct-subsequences-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0940-distinct-subsequences-ii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/yashtyagee/Leet_Practise/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yashtyagee/Leet_Practise/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yashtyagee/Leet_Practise/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/yashtyagee/Leet_Practise/tree/master/0700-search-in-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/yashtyagee/Leet_Practise/tree/master/0713-subarray-product-less-than-k) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/yashtyagee/Leet_Practise/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/yashtyagee/Leet_Practise/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yashtyagee/Leet_Practise/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Tree
 |  |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/yashtyagee/Leet_Practise/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/yashtyagee/Leet_Practise/tree/master/0904-fruit-into-baskets) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/yashtyagee/Leet_Practise/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/yashtyagee/Leet_Practise/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/yashtyagee/Leet_Practise/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yashtyagee/Leet_Practise/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yashtyagee/Leet_Practise/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/yashtyagee/Leet_Practise/tree/master/0713-subarray-product-less-than-k) |
 | [1140-stone-game-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/yashtyagee/Leet_Practise/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/yashtyagee/Leet_Practise/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Stack
 |  |
 | ------- |
