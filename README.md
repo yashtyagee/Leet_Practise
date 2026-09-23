@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/yashtyagee/Leet_Practise/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/yashtyagee/Leet_Practise/tree/master/0735-asteroid-collision) |
 | [0817-linked-list-components](https://github.com/yashtyagee/Leet_Practise/tree/master/0817-linked-list-components) |
+| [0875-koko-eating-bananas](https://github.com/yashtyagee/Leet_Practise/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/yashtyagee/Leet_Practise/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/yashtyagee/Leet_Practise/tree/master/0904-fruit-into-baskets) |
 | [1140-stone-game-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/1140-stone-game-ii) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/yashtyagee/Leet_Practise/tree/master/0633-sum-of-square-numbers) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yashtyagee/Leet_Practise/tree/master/0700-search-in-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/yashtyagee/Leet_Practise/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/yashtyagee/Leet_Practise/tree/master/0875-koko-eating-bananas) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/yashtyagee/Leet_Practise/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/yashtyagee/Leet_Practise/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yashtyagee/Leet_Practise/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
