@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/yashtyagee/Leet_Practise/tree/master/0443-string-compression) |
 | [0686-repeated-string-match](https://github.com/yashtyagee/Leet_Practise/tree/master/0686-repeated-string-match) |
 | [0940-distinct-subsequences-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/yashtyagee/Leet_Practise/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/yashtyagee/Leet_Practise/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yashtyagee/Leet_Practise/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/yashtyagee/Leet_Practise/tree/master/0560-subarray-sum-equals-k) |
 | [0817-linked-list-components](https://github.com/yashtyagee/Leet_Practise/tree/master/0817-linked-list-components) |
 | [0904-fruit-into-baskets](https://github.com/yashtyagee/Leet_Practise/tree/master/0904-fruit-into-baskets) |
+| [1096-brace-expansion-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/yashtyagee/Leet_Practise/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/yashtyagee/Leet_Practise/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/yashtyagee/Leet_Practise/tree/master/1512-number-of-good-pairs) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/yashtyagee/Leet_Practise/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/yashtyagee/Leet_Practise/tree/master/0078-subsets) |
+| [1096-brace-expansion-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/yashtyagee/Leet_Practise/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/yashtyagee/Leet_Practise/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashtyagee/Leet_Practise/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/yashtyagee/Leet_Practise/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashtyagee/Leet_Practise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/yashtyagee/Leet_Practise/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -418,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/yashtyagee/Leet_Practise/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/yashtyagee/Leet_Practise/tree/master/0735-asteroid-collision) |
+| [1096-brace-expansion-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/1096-brace-expansion-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/yashtyagee/Leet_Practise/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -547,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/yashtyagee/Leet_Practise/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yashtyagee/Leet_Practise/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
