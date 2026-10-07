@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yashtyagee/Leet_Practise/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/yashtyagee/Leet_Practise/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/yashtyagee/Leet_Practise/tree/master/0151-reverse-words-in-a-string) |
+| [0301-remove-invalid-parentheses](https://github.com/yashtyagee/Leet_Practise/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashtyagee/Leet_Practise/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/yashtyagee/Leet_Practise/tree/master/0443-string-compression) |
 | [0686-repeated-string-match](https://github.com/yashtyagee/Leet_Practise/tree/master/0686-repeated-string-match) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/yashtyagee/Leet_Practise/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/yashtyagee/Leet_Practise/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/yashtyagee/Leet_Practise/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/yashtyagee/Leet_Practise/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/yashtyagee/Leet_Practise/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yashtyagee/Leet_Practise/tree/master/3568-minimum-moves-to-clean-the-classroom) |
