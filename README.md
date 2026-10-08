@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/yashtyagee/Leet_Practise/tree/master/0443-string-compression) |
 | [0686-repeated-string-match](https://github.com/yashtyagee/Leet_Practise/tree/master/0686-repeated-string-match) |
 | [0940-distinct-subsequences-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/yashtyagee/Leet_Practise/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yashtyagee/Leet_Practise/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/yashtyagee/Leet_Practise/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/yashtyagee/Leet_Practise/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/yashtyagee/Leet_Practise/tree/master/0735-asteroid-collision) |
+| [1021-remove-outermost-parentheses](https://github.com/yashtyagee/Leet_Practise/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yashtyagee/Leet_Practise/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yashtyagee/Leet_Practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashtyagee/Leet_Practise/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/yashtyagee/Leet_Practise/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yashtyagee/Leet_Practise/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yashtyagee/Leet_Practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Breadth-First Search
