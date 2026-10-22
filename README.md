@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yashtyagee/Leet_Practise/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yashtyagee/Leet_Practise/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashtyagee/Leet_Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/yashtyagee/Leet_Practise/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/yashtyagee/Leet_Practise/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/yashtyagee/Leet_Practise/tree/master/0046-permutations) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashtyagee/Leet_Practise/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/yashtyagee/Leet_Practise/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/yashtyagee/Leet_Practise/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/yashtyagee/Leet_Practise/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0142-linked-list-cycle-ii) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/yashtyagee/Leet_Practise/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/yashtyagee/Leet_Practise/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/yashtyagee/Leet_Practise/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/yashtyagee/Leet_Practise/tree/master/0077-combinations) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/yashtyagee/Leet_Practise/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/yashtyagee/Leet_Practise/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/yashtyagee/Leet_Practise/tree/master/0085-maximal-rectangle) |
 | [0304-range-sum-query-2d-immutable](https://github.com/yashtyagee/Leet_Practise/tree/master/0304-range-sum-query-2d-immutable) |
@@ -652,4 +656,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yashtyagee/Leet_Practise/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/yashtyagee/Leet_Practise/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/yashtyagee/Leet_Practise/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
